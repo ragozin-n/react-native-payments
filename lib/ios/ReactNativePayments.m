@@ -17,6 +17,11 @@ RCT_EXPORT_MODULE()
     return YES;
 }
 
++ (BOOL)requiresMainQueueSetup
+{
+  return YES;
+}
+
 - (NSDictionary *)constantsToExport
 {
     return @{
