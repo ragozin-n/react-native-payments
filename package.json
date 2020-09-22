@@ -1,4 +1,17 @@
 {
+  "name": "react-native-payments",
+  "version": "1.0.0",
+  "repository": "https://github.com/ragozin-n/react-native-payments",
+  "keywords": [
+    "react",
+    "react-native",
+    "apple-pay",
+    "stripe",
+    "braintree",
+    "payments"
+  ],
+  "author": "Ragozin Nikita",
+  "license": "MIT",
   "scripts": {
     "precommit": "lint-staged"
   },
